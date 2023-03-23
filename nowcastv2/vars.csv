@@ -1,0 +1,12 @@
+code,name,block,trans
+FRBKCLMCILA,"KC Fed Labor Market Conditions Index, Level of Activity Indicator ",LM,NA
+ICSA,Initial Claims,LM,apc
+CCSA,Continued Claims ,LM,apc
+PAYEMS," All Employees, Total Nonfarm",LM,apc
+CIVPART,Labor Force Participation Rate ,LM,apc
+UNRATE,Unemployment Rate,LM,apc
+PCEPI,Personal Consumption Expenditures: Chain-type Price Index,PRICES,apc
+PCEPILFE,Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index),PRICES,apc
+CPIAUCSL,Consumer Price Index for All Urban Consumers: All Items in U.S. City Average,PRICES,apc
+MICH,University of Michigan: Inflation Expectation,PRICES,NA
+GDPC1,GDP,NA,apc

@@ -1,1 +1,5 @@
 /.DS_Store
+__pycache__
+nowcastv2/config.py
+nowcastv2/fredget.py
+**.numbers
